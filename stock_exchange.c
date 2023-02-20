@@ -1,9 +1,6 @@
 /*---------------------------------------------------------------------------------------
-Program file:   functions_stock_exchange.c
 Author:         Eldi Prifti
-Email:          eldi_prifti@student.uml.edu
 Date:           July 26, 2020
-Assignment:     priftiep5.c
 Course #:       INFO2110
 Objective:      This program allows the user to enter an initial state of a stock
                 portfolio. Then, the user is allowed to make a desired number of
