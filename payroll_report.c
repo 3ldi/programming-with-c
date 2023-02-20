@@ -1,5 +1,4 @@
 /*------------------------------------------------------------------------------
-Program file:   payroll_report.c
 Author:         Eldi Prifti
 Course #:       INFO.2120
 Objective:      This program prompts the user to enter personal, work related
