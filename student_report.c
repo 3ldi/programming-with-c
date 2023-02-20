@@ -1,5 +1,4 @@
 /*------------------------------------------------------------------------------
-Program file:   student_report.c
 Author:         Eldi Prifti
 Course #:       INFO.2120
 Objective:      This program uses pointer notation and pointer math to calculate
