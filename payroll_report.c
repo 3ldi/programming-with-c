@@ -1,9 +1,6 @@
 /*------------------------------------------------------------------------------
 Program file:   payroll_report.c
 Author:         Eldi Prifti
-Email:          eldi_prifti@student.uml.edu
-Date:           October 11, 2020
-Assignment:     priftiep3.c
 Course #:       INFO.2120
 Objective:      This program prompts the user to enter personal, work related
                 information about a desired number(up to 20) of employees. The
