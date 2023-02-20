@@ -1,9 +1,7 @@
 /*--------------------------------------------------------------------------------------
 Program file:   people_report.c
 Author:         Eldi Prifti
-Email:          eldi_prifti@student.uml.edu
 Date:           November 7, 2020
-Assignment:     priftiep5.c
 Course #:       INFO.2120
 Objective:      This program takes data from a file and loads a structure of up to
                 100 items. Then, the program will prompt the user to select from
