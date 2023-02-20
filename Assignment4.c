@@ -1,9 +1,6 @@
 /*------------------------------------------------------------------------------
 Program file:   student_report.c
 Author:         Eldi Prifti
-Email:          eldi_prifti@student.uml.edu
-Date:           October 25, 2020
-Assignment:     priftiep4.c
 Course #:       INFO.2120
 Objective:      This program uses pointer notation and pointer math to calculate
                 the averages of a maximum of 20 student records. The data is provided
