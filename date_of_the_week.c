@@ -1,9 +1,7 @@
 /*------------------------------------------------------------------------------------
 Program file:   day_of_the_week.c
 Author:         Eldi Prifti
-Email:          eldi_prifti@student.uml.edu
 Date:           September 27, 2020
-Assignment:     priftiep2.c
 Course #:       INFO2120
 Objective:      This program prompts the user to enter a date and then displays the
                 day of the week it falls on. The user input is required in the format
